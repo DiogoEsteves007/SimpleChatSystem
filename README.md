@@ -1,5 +1,4 @@
 # SimpleChatSystem
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/DiogoEsteves007/SimpleChatSystem)
 
 ## Overview
 
